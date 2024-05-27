@@ -147,7 +147,6 @@
 
 - Open PowerShell_ise as an administrator.
 
-- Copy and run the script from this [link](https://github.com/AshikNewar/AD_Users/blob/main/Generate-Names-Create-Users.ps1).
 
 - Observe the accounts being created in the appropriate OU.
 
